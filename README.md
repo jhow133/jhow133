@@ -1,16 +1,15 @@
-### Hi there 👋
+### oiii bem vinto ao meu perfil
 
-<!--
-**jhow133/jhow133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aluno:jonatan aparecido da silva
 
-Here are some ideas to get you started:
+.Sou jonatan mais pode me chama de jhow
+.Sou aluno do primeiro ano 
+.Sou estudante no período integral 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PARA ENTAR EM CTT COMIGO:
+
+- jonatan.aparecido.silva@escola.pr.gov.br
+- @jonatan.silva06
+
+![](https://media.tenor.com/KhtaBX-rWXIAAAAd/lmao-laughing.gif)
+
